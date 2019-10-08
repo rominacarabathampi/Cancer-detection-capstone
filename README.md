@@ -7,6 +7,7 @@ From genetic therapy to detection of various diseases, AI has revolutionized med
 
 # File Names Guide
 The file named *Capstone Code Romina.ipynb* is the original file of the capstone code project. It contains all the failed version as well as the good version.
+
 The file named *best_model_code* is the file containing the best CNN model.
 
 
